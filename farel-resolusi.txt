@@ -1,3 +1,5 @@
 Farel RESOLUSI
 - Membelajari cara penggunaan github 
 - Mempelajari cara penggunaan Laravel
+- Mempelajari cara penggunaan git 
+- Mempelajari cara penggunaan css
